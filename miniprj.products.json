@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "64e9bc55410d14b53a54bd5c"
+  },
+  "p_id": 1,
+  "p_name": "mobile",
+  "p_cat": "electronics",
+  "p_cost": 100,
+  "p_desc": "Android Mobile"
+},
+{
+  "_id": {
+    "$oid": "64e9bdc4410d14b53a54bd5d"
+  },
+  "p_id": 2,
+  "p_name": "mobile",
+  "p_cat": "electronics",
+  "p_cost": 500,
+  "p_desc": "Iphone Mobile"
+},
+{
+  "_id": {
+    "$oid": "64e9be8d410d14b53a54bd5e"
+  },
+  "p_id": 2,
+  "p_name": "mobile",
+  "p_cat": "electronics",
+  "p_cost": 500,
+  "p_desc": "Iphone Mobile"
+},
+{
+  "_id": {
+    "$oid": "64e9c3cd410d14b53a54bd60"
+  },
+  "p_id": 1,
+  "p_name": "mobile",
+  "p_cat": "electronics",
+  "p_img": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+  "p_cost": 100,
+  "p_desc": "Android Mobile"
+},
+{
+  "_id": {
+    "$oid": "64e9c575410d14b53a54bd61"
+  },
+  "p_id": 2,
+  "p_name": "mobile",
+  "p_cat": "electronics",
+  "p_img": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+  "p_cost": 100,
+  "p_desc": "Android Mobile"
+},
+{
+  "_id": {
+    "$oid": "64e9c586410d14b53a54bd62"
+  },
+  "p_id": 3,
+  "p_name": "mobile",
+  "p_cat": "electronics",
+  "p_img": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+  "p_cost": 100,
+  "p_desc": "Android Mobile"
+}]
